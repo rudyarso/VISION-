@@ -7,6 +7,8 @@ This application has no explicit mapping for /error, so you are seeing this as a
 
 #EXTM3U
 
+                 <=================== "YOYO TV" =============================>
+  
 #EXTINF:-1 tvg-logo="https://e.top4top.io/p_3301itgmp1.jpg" group-title="YOYO TV",YOYO TV 
 https://l.top4top.io/m_3278pt8dd1.mp4 
 #EXTINF:-1 tvg-logo="https://l.top4top.io/p_31985tia01.png" group-title="YOYO TV",YOYO TV 
@@ -14,7 +16,7 @@ https://l.top4top.io/m_3278pt8dd1.mp4
 
 
 
-
+<=================== "YOYO TV" =============================>
 
 
 #EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/30pj83g.png", 15:30 WIB - Selesai [Proliga
@@ -79,7 +81,7 @@ https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/3cek5B4.png", 20:30 Hoffenheim vs Borussia Dortmund
 http://ktvs.xyz:8080/Amber36/35897447/49527
 
-<=================== EVENT 2 =============================>
+                             <=================== EVENT 2 =============================>
 
 #EXTINF:0 group-title="EVENT 27/APRIL/2025" tvg-logo="https://static.flashscore.com/res/image/data/v1eiTomd-z1Qa7XFE.png", 03:00 Barcelona vs Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -89,20 +91,7 @@ http://ktvs.xyz:8080/Amber36/35897447/49527
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
-
-<=================== DISCLAIMER =============================>
-
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/30JeA1s.md.png",001 DONASI
-https://drive.google.com/uc?export=download&id=1D6enzttkLK-BpSzCJKAIU77SPCy8ANh1&usp
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/30Jk8Al.md.png",002 TUTORIAL
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
-
-#EXTINF:-1 group-title="EVENT 27/APRIL/2025" tvg-logo="https://iili.io/30JeA1s.md.png",001 DONASI
-https://drive.google.com/uc?export=download&id=1D6enzttkLK-BpSzCJKAIU77SPCy8ANh1&usp
-#EXTINF:-1 group-title="EVENT 27/APRIL/2025" tvg-logo="https://iili.io/30Jk8Al.md.png",002 TUTORIAL
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
-
-<=================== TV INDONESIA =============================>
+                               <=================== TV INDONESIA =============================>
 
 #EXTINF:-1 tvg-name="MNC TV (R+)" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="TV INDONESIA",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
