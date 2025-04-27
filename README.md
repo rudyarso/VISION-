@@ -65,7 +65,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/xnk4m9bnxt/out/v1/4
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/3ckn0Ss.png", 21:00 WIB Brighton & Hove Albion vs West Ham United
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3ckn0Ss.png", 21:00 WIB Brighton & Hove Albion vs West Ham United
 http://ktvs.xyz:8080/Amber36/35897447/49523
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3cek5B4.png", 20:30 WIB Bayer Leverkusen vs Augsburg
