@@ -9,23 +9,22 @@ This application has no explicit mapping for /error, so you are seeing this as a
 
                  <=================== "YOYO TV" =============================>
   
-#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3301itgmp1.jpg" group-title="YOYO TV",YOYO TV 
-https://l.top4top.io/m_3278pt8dd1.mp4 
+
 #EXTINF:-1 tvg-logo="https://l.top4top.io/p_31985tia01.png" group-title="YOYO TV",DISCLAMER
 https://l.top4top.io/m_3372yzsto1.mp4
 
 
 
 
-<=================== "YOYO TV" =============================>
+                 <=================== "EVENT" =============================>
 
 
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/30pj83g.png", 15:30 WIB - Selesai [Proliga
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30pj83g.png", 15:30 WIB - Selesai [Proliga
 http://opplex.tv:8080/live/mother/mother/350997.ts
 
 
 
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/3EUm5S1.png", 15:00 WIB Zhetysu VC vs Nakhonratchasima Qmnic
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3EUm5S1.png", 15:00 WIB Zhetysu VC vs Nakhonratchasima Qmnic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -33,7 +32,7 @@ http://opplex.tv:8080/live/mother/mother/350997.ts
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
 
 
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/3EUm5S1.png", 18:00 WIB VTV Binh Dien Long An vs Beijing BAIC Motor
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3EUm5S1.png", 18:00 WIB VTV Binh Dien Long An vs Beijing BAIC Motor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -42,7 +41,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 
 
 
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://static.flashscore.com/res/image/data/6ol67PRp-G075SKNB.png", 23:15 WIB Crystal Palace vs Aston Villa
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://static.flashscore.com/res/image/data/6ol67PRp-G075SKNB.png", 23:15 WIB Crystal Palace vs Aston Villa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -52,14 +51,14 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 
 
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/3ckn0Ss.png", 18:30 WIB Chelsea vs Everton
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3ckn0Ss.png", 18:30 WIB Chelsea vs Everton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/3ckn0Ss.png", 21:00 WIB Newcastle United vs Ipswich Town
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3ckn0Ss.png", 21:00 WIB Newcastle United vs Ipswich Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -69,22 +68,18 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/xnk4m9bnxt/out/v1/4
 #EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/3ckn0Ss.png", 21:00 WIB Brighton & Hove Albion vs West Ham United
 http://ktvs.xyz:8080/Amber36/35897447/49523
 
-
-
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/3cek5B4.png", 20:30 WIB Bayer Leverkusen vs Augsburg
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3cek5B4.png", 20:30 WIB Bayer Leverkusen vs Augsburg
 http://ktvs.xyz:8080/Amber36/35897447/49524
 
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/3cek5B4.png", 20:30 Bayern München vs Mainz 05
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3cek5B4.png", 20:30 Bayern München vs Mainz 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
 https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
-#EXTINF:-1 group-title="EVENT 26/APRIL/2025" tvg-logo="https://iili.io/3cek5B4.png", 20:30 Hoffenheim vs Borussia Dortmund
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3cek5B4.png", 20:30 Hoffenheim vs Borussia Dortmund
 http://ktvs.xyz:8080/Amber36/35897447/49527
-
-                             <=================== EVENT 2 =============================>
-
-#EXTINF:0 group-title="EVENT 27/APRIL/2025" tvg-logo="https://static.flashscore.com/res/image/data/v1eiTomd-z1Qa7XFE.png", 03:00 Barcelona vs Real Madrid
+                    
+#EXTINF:0 group-title="EVENT" tvg-logo="https://static.flashscore.com/res/image/data/v1eiTomd-z1Qa7XFE.png", 03:00 Barcelona vs Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
